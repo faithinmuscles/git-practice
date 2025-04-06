@@ -1,4 +1,5 @@
 # git-practice
 このリポジトリはGit動画講座用です．
 ローカルリポで変更
-mainブランチで更新(recase コンフリクト用)
+mainブランチで更新(rebase コンフリクト用)
+rebace pull用
